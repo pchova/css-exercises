@@ -1,0 +1,18 @@
+/*CSS 3/11/2024 */
+
+div .text {
+    background-color: yellow;
+    color: maroon;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+/* 
+    other possible combinations for this class:
+         div > p 
+
+         .container p
+         div p
+         .container .text
+*/

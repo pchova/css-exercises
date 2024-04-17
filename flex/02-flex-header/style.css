@@ -2,17 +2,9 @@
   font-family: monospace;
   background: papayawhip;
   display: flex;
-  justify-content: space-around;
-  align-items: center;
   padding: 8px;
-}
-
-.left-links {
-  margin-right: auto;
-}
-
-.right-links {
-  margin-left: auto;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .logo {
@@ -40,15 +32,23 @@ a {
   text-decoration: none;
 }
 
+.right-links {
+  margin-left: auto;
+}
+
+.left-links {
+  margin-right: auto;
+}
+
 /* NARROW CENTER NAV */
-/* 
+
+/*
 .header {
-  width: 50%;
+  width: 65%;
 }
 
 body {
   display: flex;
   justify-content: center;
 }
-
 */
